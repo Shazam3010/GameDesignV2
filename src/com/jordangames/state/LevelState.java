@@ -4,6 +4,7 @@ import java.awt.Graphics2D;
 public abstract class LevelState 
 {
     protected LevelManager lm;
+    //protected TileMapManager tmm;
     
     public LevelState(LevelManager lm)
     {

@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class Game 
 {
     public static final int WINDOW_WIDTH = 800;
-    public static final int WINDOW_HEIGHT = 384;
+    public static final int WINDOW_HEIGHT = 600;
     public static final String TITLE = "New and Improved Game";
     
     private JFrame mainWindow;
